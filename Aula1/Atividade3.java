@@ -5,7 +5,7 @@ public class Atividade3 {
 
         String name = "Nathan Ferreira Silva";
         String nameofCrush = "Ninguém";
-        String endereco = "Rua Dos Ladrilhos Cardoso - 252";
+        String endereco = "Rua Dos Ladrilhos Cardoso - 123";
         int idade = 15;
         char estadoCivil = 'S';
         double height = 1.71;
